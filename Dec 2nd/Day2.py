@@ -14,7 +14,7 @@ https://adventofcode.com/2021/day/2
 import pandas as pd
 
 #Part 1
-dane = pd.read_csv("C:/Users/hanna/OneDrive/Dokumenty/Projects/AdventOfCode2021/Dec 2nd/input2.csv", header=None, sep=" ")
+dane = pd.read_csv("C:/Users/hanna/OneDrive/Dokumenty/Projects/AdventOfCode2021/Dec 1st/Dec 2nd/input2.csv", header=None, sep=" ")
 
 dane.columns = ['command', 'value']
 
